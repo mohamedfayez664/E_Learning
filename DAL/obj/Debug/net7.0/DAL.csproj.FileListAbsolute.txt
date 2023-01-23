@@ -1,0 +1,14 @@
+D:\Learning\Programing\Projects\E-LearningTask\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Learning\Programing\Projects\E-LearningTask\DAL\bin\Debug\net7.0\DAL.dll
+D:\Learning\Programing\Projects\E-LearningTask\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.dll
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\Learning\Programing\Projects\E-LearningTask\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\Learning\Programing\Projects\E-LearningTask\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache

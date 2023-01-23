@@ -1,0 +1,25 @@
+How to run Project::::
+
+
+First: 
+Run StartupProject it is a api on UserController
+to use all rights and ules on system
+
+Second:
+Admin(Has All Rules) User Login
+
+Email:Elearning@Elearning.com
+Password:	123
+
+Name:	Elearning User	
+UserName:Elearning	
+Adress:	Cairo	
+Phone: 01010101212
+
+Third:
+Uncomment for all method on all controllers to test the rules
+//  [Authorize
+
+
+Note: All roles like(teacher and student...) Dosent have any rights
+  and you can assign rights you want to them

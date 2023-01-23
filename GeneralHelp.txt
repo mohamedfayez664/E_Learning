@@ -1,0 +1,17 @@
+  ==============Installition===========
+  Install-Package Microsoft.EntityFrameworkCore
+  Install-Package Microsoft.EntityFrameworkCore.SqlServer
+  Install-Package Microsoft.EntityFrameworkCore.Tools
+  Install-Package Microsoft.EntityFrameworkCore.Design
+
+  =====================Migrations=======================
+  enable-migrations
+  add-migration   init
+  update-database
+  
+  add-migration   init -IgnoreChanges -Force   ///first time on exDB
+  add-migration   addnewtable  -Force 
+  
+  
+  update-database -targetmigration:m6
+  Remove-Migration -f
